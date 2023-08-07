@@ -10,7 +10,6 @@ import BenefitItem from "./BenefitItem";
 import ActionButton from "@/shared/ActionButton";
 import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
 
-
 type Props = {
   setSelectedPage: (value: SelectedPage) => void;
 }
